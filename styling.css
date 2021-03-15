@@ -1,0 +1,61 @@
+.header {
+  color: brown;
+  font-family: sans-serif;
+  text-align: center;
+}
+.btn {
+  height: 80px;
+  width: 80px;
+  border-radius: 5px;
+  margin: 3px;
+  font-size: 2rem;
+}
+button:hover {
+  background-color: blanchedalmond;
+}
+.equals {
+  height: 80px;
+  width: 180px;
+  background-color: lightblue;
+}
+.layout {
+  text-align: center;
+  width: 400px;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 20px;
+}
+.entryBox {
+  height: 70px;
+  width: 300px;
+}
+.display {
+  height: 40px;
+  width: 330px;
+}
+.all-clear{
+  width: 80px;
+  height: 80px;
+  background-color: red;
+  border-radius: 5px;
+  margin: 3px;
+}
+.display {
+  height: 80px;
+  width: 345px;
+  background-color: whitesmoke;
+}
+.operator{
+  height: 80px;
+  width: 80px;
+  border-radius: 5px;
+  margin: 3px;
+  font-size: 2rem;
+}
+.decimal{
+  height: 80px;
+  width: 80px;
+  border-radius: 5px;
+  margin: 3px;
+  font-size: 2rem;
+}
